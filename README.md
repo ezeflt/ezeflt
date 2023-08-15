@@ -1,9 +1,9 @@
 <div id="" align="center">
-  <img src="./readmeImage/eze.png" alt="Time clock" width="100%" />
+  <img src="./readmeImage/header.png" alt="Time clock" width="100%" />
 </div>
 
 <h4 align="center">Développeur web et mobile certifié </h4>
-<h4 align="center">J'ai accumulé une année d'expérience dédiée à la création d'applications web ainsi qu'à la conception et au développement d'applications mobiles. </h4>
+<h4 align="center">J'ai accumulé une année d'expérience dédiée à la création d'applications web </br> ainsi qu'à la conception et au développement d'applications mobiles. </h4>
 <hr>
 
 <!-- TECHS -->
