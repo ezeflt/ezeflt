@@ -2,26 +2,32 @@
   <img src="./readmeImage/eze.png" alt="Time clock" width="100%" />
 </div>
 
-<h4 align="center">En tant que développeur web et mobile certifié, j'ai accumulé une année d'expérience dédiée à la création d'applications web ainsi qu'à la conception et au développement d'applications mobiles.    </h4>
-
+<h4 align="center">En tant que développeur web et mobile certifié </h4>
+<h4>j'ai accumulé une année d'expérience dédiée à la création d'applications web ainsi qu'à la conception et au développement d'applications mobiles. </h4>
 <hr>
 
 <!-- TECHS -->
 
 <h2 align="center">Technologie utilisée</h2>
 
-<div align="center">
+<div align="start">
 <br>
-<div id="" align="center">
-  <img src="./readmeImage/skills.png" alt="Time clock" width="100%" />
-</div>
+Frontend
+: HTML
+- CSS
+- Javascript
+- React js
+- Twig
+- bootstrap
+</br>
+Backend : PHP - Symfony - NODE JS - SQL - Mongo DB
 
 <br>
 <hr>
 
 <!-- PROJECTS -->
 
-<h2 align="center">Mes experiences projet</h2>
+<h2 align="center">Mes experience de projet</h2>
 <div align="center">
 	<table>
 		<tr>
@@ -43,7 +49,7 @@
 					</p>
 					<p><strong>Symfony - MongoDB - Javascript - Twig - Git</strong></p>
           <p>
-						abattoire végétal est une applications web de restaurant véganne. Invitez d'autres personnes à table avec vous pour résérver une date.
+						abattoire végétal est une applications web de restaurant végane. Invitez d'autres personnes à table avec vous pour réserver une date.
 					</p>
 				</div>
 			</td>
