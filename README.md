@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="./readmeImage/header.png" alt="Time clock" width="100%" />
+  <img src="./readmeImage/eze.png" alt="Time clock" width="100%" />
 </div>
 
 <h4 align="center">En tant que développeur web et mobile certifié, j'ai accumulé une année d'expérience dédiée à la création d'applications web ainsi qu'à la conception et au développement d'applications mobiles.    </h4>
