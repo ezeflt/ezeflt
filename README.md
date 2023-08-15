@@ -2,8 +2,8 @@
   <img src="./readmeImage/eze.png" alt="Time clock" width="100%" />
 </div>
 
-<h4 align="center">En tant que développeur web et mobile certifié </h4>
-<h4>j'ai accumulé une année d'expérience dédiée à la création d'applications web ainsi qu'à la conception et au développement d'applications mobiles. </h4>
+<h4 align="center">Développeur web et mobile certifié </h4>
+<h4 align="center">J'ai accumulé une année d'expérience dédiée à la création d'applications web ainsi qu'à la conception et au développement d'applications mobiles. </h4>
 <hr>
 
 <!-- TECHS -->
@@ -27,7 +27,7 @@ Backend : PHP - Symfony - NODE JS - SQL - Mongo DB
 
 <!-- PROJECTS -->
 
-<h2 align="center">Mes experience de projet</h2>
+<h2 align="center">Mes expériences de projet.</h2>
 <div align="center">
 	<table>
 		<tr>
@@ -47,7 +47,7 @@ Backend : PHP - Symfony - NODE JS - SQL - Mongo DB
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>Symfony - MongoDB - Javascript - Twig - Git</strong></p>
+					<p><strong>Symfony - MongoDB - Javascript - Twig</strong></p>
           <p>
 						abattoire végétal est une applications web de restaurant végane. Invitez d'autres personnes à table avec vous pour réserver une date.
 					</p>
@@ -67,7 +67,7 @@ Backend : PHP - Symfony - NODE JS - SQL - Mongo DB
 						</a>  
 					</p>
 					 <p><strong> React Native - Expo js - Redux - Css </strong></p>
-					<p>Time clock est une application mobile concu pour créer des alarmes en leur ajoutant du texte, une fois l'alarme activé le texte sera prononcé jusqu`à ce que l'alarme soit désactivé</p>
+					<p>Time clock est une application mobile conçu pour créer des alarmes en leur ajoutant du texte, une fois l'alarme activé le texte sera prononcé jusqu`à ce que l'alarme soit désactivé</p>
 				</div>
         </tr>
 	    <tr>
