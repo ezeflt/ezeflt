@@ -115,6 +115,6 @@
 <h6 align="center">feltenezechiel1@gmail.com | 07 49 96 40 39</h6>
 <p align="center">
 	&nbsp&nbsp&nbsp
-<a href="https://www.linkedin.com/in/corvomatthieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthcorvolinkedin" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://www.linkedin.com/in/ezechiel-felten-475693248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthcorvolinkedin" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 
 </p>
