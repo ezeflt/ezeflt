@@ -47,7 +47,7 @@ Backend : PHP - Symfony - NODE JS - SQL - Mongo DB
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>PHP - Symfony - MongoDB - Javascript - Twig </strong></p>
+					<p><strong>Symfony - MongoDB - Javascript - Twig</strong></p>
           <p>
 						abattoire végétal est une applications web de restaurant végane. Invitez d'autres personnes à table avec vous pour réserver une date.
 					</p>
@@ -87,7 +87,7 @@ Backend : PHP - Symfony - NODE JS - SQL - Mongo DB
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong> React js - Next js - Node js - Express js - Redux </strong></p>
+                    <p><strong> HTML - CSS - React js - Node js - Redux </strong></p>
 		    <p>Morning news est une aplications web qui vous maintient au courant des annonces et des actualités les plus récentes. Créez vous un compte et enregistrez vos articles favoris.</p>
                 </div>
             </td>
@@ -104,11 +104,31 @@ Backend : PHP - Symfony - NODE JS - SQL - Mongo DB
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
                     </p>
-                    <p><strong>React Native - Expo js - Node js - Express js - Redux - Css </strong></p>
+                    <p><strong>React Native - Expo js - Redux - Css </strong></p>
 		    <p>Locapic est une application mobile qui vous permet de marquer vos destinations favorites sur la carte, ainsi que vos destinations futures. </p>
                 </div>	
             </td>
         </tr>
+			<td width="50%">
+                <h3 align="center">Portfolio</h3>
+                <div align="center">  
+                    <a href='https://ezechiel-felten.vercel.app/' target="_blank">
+                        <img src="./readmeImage/background.png" alt="project 4" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+						<a href="https://github.com/ezeflt/portfolio" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+		<a href="https://ezechiel-felten.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>Next JS - React JS - GSAP - Vanta JS - Redux </strong></p>
+		    <p>Explorez mon portfolio pour découvrir une exposition détaillée de mon parcours, de mes compétences ainsi que des descriptions complètes de chacun de mes projets</p>
+                </div>	
+            </td>
 	</table>
 </div>
 <br />
