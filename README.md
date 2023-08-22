@@ -87,7 +87,7 @@ Backend : PHP - Symfony - NODE JS - SQL - Mongo DB
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong> React js - Next JS - Node JS - Redux - API News </strong></p>
+                    <p><strong> React js - Next JS - Node JS - Redux - API </strong></p>
 		    <p>Morning news est une aplications web qui vous maintient au courant des annonces et des actualités les plus récentes. Créez vous un compte et enregistrez vos articles favoris.</p>
                 </div>
             </td>
@@ -104,7 +104,7 @@ Backend : PHP - Symfony - NODE JS - SQL - Mongo DB
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>
                     </p>
-                    <p><strong>React Native - Expo js - Redux - Node JS - Express JS </strong></p>
+                    <p><strong>React Native - Expo js - Redux - Node - Express JS </strong></p>
 		    <p>Locapic est une application mobile qui vous permet de marquer vos destinations favorites sur la carte, ainsi que vos destinations futures. </p>
                 </div>	
             </td>
